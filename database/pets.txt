@@ -1,0 +1,3 @@
+1001|Snoopy|Labrador Retriever|Male|7|chocolate|29|1|friendly|Pradeep|7897899345|Maruthi Nagar,Tirupati|Registered
+1002|Blacky|Golden Retriever|Female|10|Black|30|1|gentle|Venkat|7779954325|Sriramnagar,Chittor|Registered
+1007|Shih Tzu|Shih Tzu|Male|5|gold|30|0|compact|Narendra|9876987677|Chutugunta,Chittor|Registered
